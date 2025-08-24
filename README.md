@@ -24,13 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<div>
-    <a href="https://imgur.com/a/hY8iUBL">
-    </a>
-    <a href="https://imgur.com/a/hY8iUBL">
-      <img src="https://i.imgur.com/FMqM8ox.gif" alt='Video Walkthrough' >
-    </a>
-  </div>
+
+<a href="https://imgur.com/a/hY8iUBL">Imgur Link</a>
+<img src="https://i.imgur.com/FMqM8ox.gif" alt='Video Walkthrough'>
+  
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with MacOS Screen Record, converted to GIF with Adobe Express.
