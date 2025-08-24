@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 <div>
     <a href="https://imgur.com/a/hY8iUBL">
     </a>
-    <a href="https://www.loom.com/share/1bf84977a93c42548bc0b49521db4771">
+    <a href="https://imgur.com/a/hY8iUBL">
       <img src="https://i.imgur.com/FMqM8ox.gif" alt='Video Walkthrough' >
     </a>
   </div>
